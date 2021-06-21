@@ -5,7 +5,8 @@
  ##Results
  There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 urban cities by far had the most ride shares and rural cities the least amount of ride shares as seen in the figure below
-[!alt test]analysis/Fig1.png
+![Screenshot]()
+
 
 
 ##summary
